@@ -1,3 +1,8 @@
+# 0.4.2
+
+* Fix double-close on pipe unregister (#200).
+* Don't include development scripts in release package (195).
+
 # signal-hook-mio-0.3.0
 # signal-hook-tokio-0.4.0
 # signal-hook-async-std-0.4.0
