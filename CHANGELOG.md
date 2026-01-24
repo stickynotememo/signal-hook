@@ -1,3 +1,7 @@
+# 0.4.3
+
+* Don't exclude .c files from release package.
+
 # 0.4.2
 
 * Fix double-close on pipe unregister (#200).
